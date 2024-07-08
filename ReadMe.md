@@ -12,11 +12,11 @@
 
 2. **Extract the Zip File**
    ```sh
-   unzip illumio-challenge.zip
+   unzip illumio-challenge-main.zip
 
 1. **Navigate to the Project Directory**
    ```sh
-   cd path/to/illumio-challenge
+   cd path/to/illumio-challenge-main
 2. **Compile the Java Files**
    ```sh
    javac -d out src/*.java
